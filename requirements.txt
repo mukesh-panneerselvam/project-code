@@ -1,9 +1,6 @@
-scikit-learn
-numpy
+streamlit
 pandas
-matplotlib
-seaborn
-xgboost
-streamlit 
+numpy
+scikit-learn==0.24.2
 plotly
-
+joblib
